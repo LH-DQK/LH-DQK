@@ -17,8 +17,8 @@ Um die vorhandenen Ansätze für eine Digitale Quellenkritik zu sammeln und zu e
 
 # Organisation und Kontakt
 
-- Aline Deicke, Digitale Akademie, Akademie der Wissenschaften und der Literatur | Mainz (aline.deicke@adwmainz.de)
-- Jonathan D. Geiger, Digitale Akademie, Akademie der Wissenschaften und der Literatur | Mainz (jonathan.geiger@adwmainz.de)
+- Aline Deicke, Digitale Akademie, Akademie der Wissenschaften und der Literatur, Mainz (aline.deicke@adwmainz.de)
+- Jonathan D. Geiger, Digitale Akademie, Akademie der Wissenschaften und der Literatur, Mainz (jonathan.geiger@adwmainz.de)
 - Marina Lemaire, Servicezentrum eSciences, Universität Trier (esciences@uni-trier.de)
 - Stefan Schmunk, Hochschule Darmstadt (stefan.schmunk@h-da.de)
 - Christian Wachter, Universität Bielefed (christian.wachter@uni-bielefeld.de)
